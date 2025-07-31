@@ -5,6 +5,9 @@ Transpose a 2D matrix
 
 
 def matrix_transpose(matrix):
+    """
+    methode to transpose matrix
+    """
     rows = len(matrix)
     cols = len(matrix[0])
 
